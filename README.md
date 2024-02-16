@@ -35,3 +35,5 @@ Fragalysis ready SDF's can be found here:
    - Overall much smaller/noodly
    - Important note:
      - Many of the compounds have a inspiration fragment of `A71x0922a` which has a benzene ring but in the <br />  `.sdf` it is a cyclohexane. So if elaborating them, the SMILES should be adjusted to reflect this.
+
+I've made a `*_KATES_TAKES.csv` for each dataset. They each contain the column `Kate_Good` which is `True` if I <br /> think it's worth elaborating and `False` if not. 
